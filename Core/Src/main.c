@@ -600,10 +600,10 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
     }
 
 
-    if (duty > 970) {
-      duty = 970;
-    } else if (duty < -970) {
-      duty = -970;
+    if (duty > 950) {
+      duty = 950;
+    } else if (duty < -950) {
+      duty = -950;
     }
     if ((duty <= 0)) {
       __HAL_TIM_SET_COMPARE(&htim1, TIM_CHANNEL_1, (1000+(int)duty));
