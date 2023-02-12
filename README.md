@@ -14,6 +14,7 @@
 ```
 
 * TIM2ではPID制御
+* TIM4では現在位置，速度の計算，フィルター処理
 * `PID_anti_windup.h`で速度制御時のPIDゲイン
 * `PID_anti_windup_pos.h`で位置制御時のゲイン
 * `PID_anti_windup.h`と`PID_anti_windup_pos.h`の`MAX_OUT`はTIM2の割り込みcallback関数内で制限してるduty比の最大値と同じ値にする
