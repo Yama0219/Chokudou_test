@@ -1,0 +1,3 @@
+C:/Users/kenke/Desktop/Univ/T-semi/NHK2023/STM/shashutu_speed_test/cmake-build-debug/CMakeFiles/shashutu_speed_test.elf.dir
+C:/Users/kenke/Desktop/Univ/T-semi/NHK2023/STM/shashutu_speed_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kenke/Desktop/Univ/T-semi/NHK2023/STM/shashutu_speed_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

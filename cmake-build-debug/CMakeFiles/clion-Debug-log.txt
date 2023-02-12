@@ -1,0 +1,5 @@
+C:\Users\kenke\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\kenke\Desktop\Univ\T-semi\NHK2023\STM\shashutu_speed_test -B C:\Users\kenke\Desktop\Univ\T-semi\NHK2023\STM\shashutu_speed_test\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/kenke/Desktop/Univ/T-semi/NHK2023/STM/shashutu_speed_test/cmake-build-debug
